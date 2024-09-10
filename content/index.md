@@ -1,4 +1,4 @@
 ---
-title: About me
+title: About
 ---
 trying to write beautiful code....
