@@ -2,7 +2,7 @@
 title: About
 draft: false
 ---
-I am a science and art enthusiast, aspiring to become a machine learning engineer. This 'digital garden' is a window to my ramblings about machine learning, theatre, films, quantum computing and other stuff.
+I am computer science student aspiring to become a machine learning engineer. This 'digital garden' is a showcase of some of my personal projects. 
 Thanks for visiting!
 # Latest posts
 - [[Weather Prediction using LSTM]]
